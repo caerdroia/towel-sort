@@ -8,7 +8,7 @@ module.exports = function towelSort (matrix) {
     return [];
   }
 
-  for (i = 0; i < matrix.length; i ++) {    
+  for (i = 0; i < matrix.length; i++) {    
 
     if ((i % 2)) {
     
